@@ -44,7 +44,7 @@ IPL Dashboard is a React application that provides an interactive interface to v
 ### Installation
 
 1. Clone the repo
-git clone https://github.com/RajuAamanchi/IPLDashboard.git
+git clone https://github.com/RajuAamanchi/IPL_Dashboard.git
 
 
 2. Navigate to the project directory
