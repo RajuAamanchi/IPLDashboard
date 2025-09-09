@@ -44,9 +44,67 @@ IPL Dashboard is a React application that provides an interactive interface to v
 ### Installation
 
 1. Clone the repo
-git clone https://github.com/yourusername/ipl-dashboard.git
+git clone https://github.com/RajuAamanchi/ipl-dashboard.git
 
 
 2. Navigate to the project directory
 cd ipl-dashboard
+
+
+3. Install dependencies
+npm install
+
+4. Run the app
+npm start
+
+
+5. Open [http://localhost:3000](http://localhost:3000) to view in the browser.
+
+---
+
+## Usage
+
+- The homepage lists all IPL teams with their logos.
+- When a team card is clicked, it navigates to the team matches page.
+- The matches page displays the team banner, latest match details, and a list of recent matches.
+- Loaders appear on API calls for async data fetching.
+- Responsive layout and clear UI for easy navigation.
+
+---
+
+## API Reference
+
+- Teams API: `https://apis.ccbp.in/ipl`
+- Team Matches API: `https://apis.ccbp.in/ipl/:id` (replace `:id` with the team ID, e.g., `KKR`)
+
+---
+
+## Known Issues
+
+- Currently, there are 13 identified bugs related to data fetching, state updates, and UI correctness needing fixes.
+
+---
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+⭐️ If you like this project, please give it a star!
+
+---
+
+Created by [Raju Aamanchi] | [GitHub Profile](https://github.com/RajuAamanchi)
+
+---
+
+**جید فائل فارغ۔ Showing tooth The others in my GitHub profile.**
+
 
